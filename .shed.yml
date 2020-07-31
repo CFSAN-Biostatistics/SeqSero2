@@ -1,0 +1,6 @@
+name: ss2v110
+owner: cstrittmatter
+description: SeqSero2 is a pipeline for Salmonella serotype prediction from raw sequencing reads or genome assemblies
+type: unrestricted
+categories:
+- Sequence Analysis
